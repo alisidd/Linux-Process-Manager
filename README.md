@@ -1,3 +1,7 @@
+# Linux-Process-Manager
+
+A C program that allows the user to manage multiple processes on Linux
+
 Instructions:
 
 1. Open terminal
